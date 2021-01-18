@@ -1,5 +1,5 @@
 # TWITCH INTERFACE
-> *Twitch.tv interface UI Clone, based on [this video] made by [guilhermerodz]. *
+> Twitch.tv interface UI Clone, based on [this video] made by [guilhermerodz]. 
 
 ![Final result](twitch_result.gif)
 
